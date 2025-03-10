@@ -30,9 +30,9 @@ A Front-End Developer, who lives in Bergen, Norway and currently studying Front-
 ![NORWAY FLAG ICON](./media/norway-flag.png)
 
 ## My Social Media
-[Instagram](https://www.instagram.com/ameliakbujar/)
-[X](https://x.com/AmeliaBujarl)
-[Linkedin](https://www.linkedin.com/in/amelia-bujar-173934192/)
+- [Instagram](https://www.instagram.com/ameliakbujar/)
+- [X](https://x.com/AmeliaBujarl)
+- [Linkedin](https://www.linkedin.com/in/amelia-bujar-173934192/)
 
 ## My Projectsx
 Take A Look At [My Portfolio Page](https://ameliakbujar.com)
