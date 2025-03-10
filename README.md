@@ -4,8 +4,24 @@ A Front-End Developer, who lives in Bergen, Norway and currently studying Front-
 
 
 ## My Skills
-![HTML ICON](./media/html-icon.png) ![CSS ICON](./media/css-icon.png)
+![HTML ICON](./media/html-icon.png) 
+![CSS ICON](./media/css-icon.png)
 ![JavaScript ICON](./media/js-icon.png)
+![ANGULAR JS ICON](./media/angular-js-icon.png)
+![BOOTSTRAP ICON](./media/bootstrap-icon.png)
+![FIGMA ICON](./media/figma-icon.png)
+![MONGODB ICON](./media/mongodb-icon.png)
+![NODE JS ICON](./media/node-js-icon.png)
+![PYTHON ICON](./media/python-icon.png)
+![REACT ICON](./media/react-icon.png)
+![SASS ICON](./media/sass.icon.png)
+![TAILWIND ICON](./media/tailwind-icon.png)
+![TYPESCRIPT ICON](./media/typescript-icon.png)
+![VISUAL CODE STUDIO ICON](./media/visual-studio-code-icon.png)
+![VITE ICON](./media/vite-icon.png)
+![VUE JS ICON](./media/vue-js-icon.png)
+![WORDPRESS ICON](./media/wordpress-icon.png)
+![GITHUB ICON](./media/github-icon.png)
 
 
 **AKB-Official/AKB-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +36,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
