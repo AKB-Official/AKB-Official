@@ -21,7 +21,7 @@ A Front-End Developer, who lives in Bergen, Norway and currently studying Front-
 ![VITE ICON](./media/vite-icon.png)
 ![VUE JS ICON](./media/vue-js-icon.png)
 ![WORDPRESS ICON](./media/wordpress-icon.png)
-![GITHUB ICON](./media/github-icon.png)
+![GITHUB ICON](./media/github-icon-one.png)
 
 
 **AKB-Official/AKB-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
