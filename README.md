@@ -4,7 +4,7 @@ A Front-End Developer, who lives in Bergen, Norway and currently studying Front-
 
 
 ## My Skills
-![HTML ICON](./media/html-icon.png)
+![HTML ICON](./media/html-icon.png) ![CSS ICON](./media/css-icon.png)
 
 
 **AKB-Official/AKB-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
