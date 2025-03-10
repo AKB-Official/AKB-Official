@@ -1,10 +1,10 @@
 # Amelia K Bujar
-## Front-End Developer
 
-My Name Is Amelia K Bujar, currently living in Bergen, Norway and studying Front-End Development at Noroff Bergen
+A Front-End Developer, who lives in Bergen, Norway and currently studying Front-End Development at Noroff Bergen
 
 
 ## My Skills
+![HTML ICON](./media/html-icon.png)
 
 
 **AKB-Official/AKB-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
