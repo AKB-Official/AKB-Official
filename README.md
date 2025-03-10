@@ -1,6 +1,12 @@
-## Hi there 👋
+## Amelia K Bujar
+# Front-End Developer
 
-<!--
+My Name Is Amelia K Bujar, currently living in Bergen, Norway and studying Front-End Development at Noroff Bergen
+
+
+## My Skills
+
+
 **AKB-Official/AKB-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
