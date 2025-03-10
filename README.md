@@ -1,5 +1,5 @@
-## Amelia K Bujar
-# Front-End Developer
+# Amelia K Bujar
+## Front-End Developer
 
 My Name Is Amelia K Bujar, currently living in Bergen, Norway and studying Front-End Development at Noroff Bergen
 
