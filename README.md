@@ -37,5 +37,5 @@ A Front-End Developer, who lives in Bergen, Norway and currently studying Front-
 ## My Projects
 Take A Look At [My Portfolio Page](https://ameliakbujar.com)
 
-- ⚡ Fun fact: ...## Contact Me
+## Contact Me
 ameliakbujarbusiness@gmail.com
