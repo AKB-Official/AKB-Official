@@ -29,7 +29,8 @@ A Front-End Developer, who lives in Bergen, Norway and currently studying Front-
 ![UK FLAG ICON](./media/uk-flag.png)
 ![NORWAY FLAG ICON](./media/norway-flag.png)
 
-
+## My Projects
+Take A Look At My Portfolio Page ![Portfolio Website](https://ameliakbujar.com)
 
 **AKB-Official/AKB-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
