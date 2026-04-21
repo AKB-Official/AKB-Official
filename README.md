@@ -1,8 +1,5 @@
 # Amelia K Bujar
 
-A Front-End Developer, who lives in Bergen, Norway and currently studying Front-End Development at Noroff Bergen
-
-
 ## My Skills
 ![HTML ICON](./media/html-icon.png) 
 ![CSS ICON](./media/css-icon.png)
