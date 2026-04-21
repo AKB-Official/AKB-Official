@@ -31,8 +31,5 @@
 - [X](https://x.com/AmeliaBujarl)
 - [Linkedin](https://www.linkedin.com/in/amelia-bujar-173934192/)
 
-## My Projects
-Take A Look At [My Portfolio Page](https://ameliakbujar.com)
-
 ## Contact Me
 ameliakbujarbusiness@gmail.com
